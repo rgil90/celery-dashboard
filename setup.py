@@ -24,5 +24,6 @@ setup(
     author="Mehdi GMIRA",
     license='MIT',
     keywords=["celery", "python", "dashboard", "postgresql", "sql", "database"],
-    platforms='any'
+    platforms='any',
+    python_requires='>=3.5'
 )
